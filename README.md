@@ -14,4 +14,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-## I have not converted the data into single which can be done by storing it in some DB or local repo.
+## I have not converted the data into single page which can be done by storing it in some DB or local repo.
